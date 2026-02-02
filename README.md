@@ -80,8 +80,10 @@ plt.show()
 ```
 
 ## Output:
-![alt text](<Screenshot 2026-01-30 114839.png>)
-![alt text](<Screenshot 2026-01-30 114848.png>)
+![alt text](<Screenshot 2026-02-02 144728.png>)
+![alt text](<Screenshot 2026-02-02 144802.png>)
+![alt text](<Screenshot 2026-02-02 144809.png>)
+![alt text](<Screenshot 2026-02-02 144818.png>)
 
 
 ## Result:
